@@ -1,5 +1,7 @@
 # representative-aircraft-weights
 
+WiP (status 04.2024)
+
 Database featuring **representative** weights for aircraft take-off and landing phases of flight.
 Too many times, performance calculations are performed using max take off weight. 
 
